@@ -1,5 +1,5 @@
 "use client";
-import { ArrowUpRight, File, Linkedin, Mail } from "lucide-react";
+import {  File, Linkedin, Mail } from "lucide-react";
 import Image from "next/image";
 import DialogCard from "./_components/DialogCard";
 
